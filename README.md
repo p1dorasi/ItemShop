@@ -1,12 +1,12 @@
-EID_ArtGiant, 1000
-CID_369_Athena_Commando_F_DevilRock, 2000
+EID_TakeTheL, 7500
+CID_515_Athena_Commando_M_BarbequeLarry, 2500
 CID_370_Athena_Commando_M_EvilSuit, 2000
 na
 na
 na
-MusicPack_039_Envy, 500
-Glider_ID_104_FuzzyBear, 1200
-EID_Fresh, 3500
-Wrap_139_Prismatic, 300
-EID_Floss, 5000
-CID_598_Athena_Commando_M_Mastermind, 1500
+CID_752_Athena_Commando_M_Comet, 1200
+CID_478_Athena_Commando_F_WorldCup, 1500
+Pickaxe_ID_359_CycloneMale, 0
+Glider_ID_118_Squishy, 500
+EID_Cyclone, 0
+Pickaxe_Lockjaw, 4900
